@@ -1,4 +1,73 @@
-.about__block-stefania-fon {
-    background-image: url("img/stefania-music.jpg");
-    height:800px;
+*{
+    margin: 0px;
 }
+.fon {
+    background-image: url(img/stefania-concert.png);
+    background-size: cover;
+    height:900px;
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+}
+.header__block {
+    
+}
+.foto-kalush{
+    height: 60px;
+}
+.header__block-text {
+position: absolute;
+width: 711px;
+height: 100px;
+left: 79px;
+top: 140px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+color: #8E8E8E;
+margin-left: 10px;
+
+}
+.header__block-concert1{
+    position: absolute;
+    width: 123px;
+    height: 27px;
+    left: 1320px;
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: #D5D5D5;
+}
+.header__block-concert2{
+    position: absolute;
+    width: 123px;
+    height: 27px;
+    left: 1200px;
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: #D5D5D5;
+}
+.section__block2 {
+    background-image: url(img/kalush-fon.png);
+    background-size: cover;
+    height:900px;
+    background-color: rgb(255, 255, 255);
+    border: 0px; 
+}
+.section__block2-kontent{
+    justify-content: center;
+    width: 20px;
+    color: aliceblue;
+    display: flex;
+    margin-left: 500px;
+    margin-top: ;
+}
+
