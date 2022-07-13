@@ -70,4 +70,32 @@ margin-left: 10px;
     margin-left: 500px;
     margin-top: ;
 }
-
+.section__block2-landing-kalush {
+  width: 1080px;
+  height: 520px;
+  margin-top: 100px;
+  margin-left: 400px;
+}
+.section__block2-text-kalush {
+height: 73px;
+font-family: 'Myanmar Khyay';
+font-size: 150px;
+line-height: 62px;
+color: #FFFFFF;
+margin-left: 570px;
+margin-bottom:0px;
+margin-top: -360px;
+}
+.shop-photo{
+    margin-left: 630px;
+    margin-bottom:200px;
+   margin-top: -600px;
+    font-size: 150px;
+    line-height: 62px;
+    height: 200px;
+}
+.shop-content {
+    color: #FFFFFF;
+    margin-top: -420px;
+    margin-left: 710px;
+}
